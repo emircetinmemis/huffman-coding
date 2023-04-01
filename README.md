@@ -8,7 +8,8 @@ This project is a Huffman Compression/Decompression tool built in Python with a 
 * Gray-Scale Images with Differences: Compress and decompress gray-scale images that have been modified with differences.
 * Color Images: Compress and decompress color images.
 * Color Images with Differences: Compress and decompress color images that have been modified with differences.
-* With this tool, users can effectively reduce the size of their files while maintaining their quality. The program has been designed with usability in mind and includes a simple and intuitive interface.
+*
+With this tool, users can effectively reduce the size of their files while maintaining their quality. The program has been designed with usability in mind and includes a simple and intuitive interface.
 
 
 ## Environment & Setup
