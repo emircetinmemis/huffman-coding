@@ -1,4 +1,4 @@
-# Memory Management Simulation
+# Image Compression Using Huffman Coding
 
 This project is a Huffman Compression/Decompression tool built in Python with a Tkinter GUI. The program provides five levels of approach, allowing users to compress and decompress various types of files with increasing complexity
 
